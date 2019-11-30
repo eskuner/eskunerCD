@@ -1,0 +1,14 @@
+modelo\Compañia.class
+modelo\Genero.class
+dao\ArtistaDao.class
+modelo\Venta.class
+modelo\Disquera.class
+controlador\ArtistaServlet.class
+modelo\Banda.class
+modelo\Grupo.class
+modelo\Informacion_disco.class
+conexion\Testing.class
+conexion\Conexion.class
+modelo\Artista.class
+modelo\Cancion.class
+modelo\Disco.class
